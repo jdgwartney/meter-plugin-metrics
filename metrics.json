@@ -1,7 +1,7 @@
 {
    "PULSE_METRIC_LOAD": {
      "displayName": "PULSE_METRIC_LOAD",
-     "shortDisplayName": "PULSE_METRIC_LOAD",
+     "displayNameShort": "PULSE_METRIC_LOAD",
      "description": "PULSE_METRIC_LOAD",
      "unit": "number",
      "defaultAggregate": "avg",
