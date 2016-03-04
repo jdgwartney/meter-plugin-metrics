@@ -1,0 +1,10 @@
+{
+  "name": "metrics",
+  "description": "metrics loading example",
+  "command": "python init.py",
+  "metrics": [
+  "PULSE_METRIC_LOAD"
+  ]
+}
+
+
